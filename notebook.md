@@ -13,3 +13,4 @@
 * Discussed supervised vs unsupervised learning
 ** Supervised is making more advances currently
 * Lecture over K means clustering
+* Showed example on WebPlotViz website
