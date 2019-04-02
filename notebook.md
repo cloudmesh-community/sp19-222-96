@@ -11,5 +11,5 @@
 # 4/2
 * Lecture over linear regression and the stat steps behind it
 * Discussed supervised vs unsupervised learning
-* -Supervised is making more advances currently
+** Supervised is making more advances currently
 * Lecture over K means clustering
