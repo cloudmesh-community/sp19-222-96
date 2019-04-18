@@ -15,7 +15,7 @@
 * Lecture over K means clustering
 * Showed example on WebPlotViz website
 
-#4/4
+# 4/4
 * Clusterung examples in a bunch of differernt fields 
 * Strongly recommended to visualize data
 * viewed relationships of how well (or not well) data was coorelating with biology classifications on 3D graphs
