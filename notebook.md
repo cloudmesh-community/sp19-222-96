@@ -18,6 +18,11 @@
 * went over how to standardization and work with k means 
 * how to normalize data with basic statics 
 
+# 3/21
+* finished going over kNN 
+* basics of regressions models and examples in lecture 
+* cms tools 
+
 # 3/26
 * Went over all qualities of docker 
 * Worked through and example that launched a flask service
