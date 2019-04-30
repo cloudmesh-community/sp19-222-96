@@ -18,7 +18,6 @@
 * went over how to standardization and work with k means 
 * how to normalize data with basic statics 
 
-
 # 3/26
 * Went over all qualities of docker 
 * Worked through and example that launched a flask service
@@ -30,7 +29,7 @@
 # 4/2
 * Lecture over linear regression and the stat steps behind it
 * Discussed supervised vs unsupervised learning
-** Supervised is making more advances currently
+* Supervised is making more advances currently
 * Lecture over K means clustering
 * Showed example on WebPlotViz website
 
@@ -40,5 +39,9 @@
 * viewed relationships of how well (or not well) data was coorelating with biology classifications on 3D graphs
 * Small session over parallel computing for K means 
 
-# 4/9 through end of Semester 
+# 4/9
+* went through general optimization problems 
+* continous vs discrete parameters 
+
+# 4/11 through end of Semester 
 * work time and questions on project
